@@ -16,5 +16,5 @@ Here are several random programs I made or helped make on Replit, in no particul
 
 [Program that determines if a number is prime or not](https://replit.com/join/jkgxfiavzy-kylerater)
 
-[Check out our other site](/second.md)
+[Check out our other site](second.md)
 
